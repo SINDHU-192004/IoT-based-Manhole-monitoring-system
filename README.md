@@ -112,6 +112,5 @@ The system sends **automated email alerts** and provides a **web-based dashboard
 ![image](https://github.com/user-attachments/assets/ada9588d-b843-4403-ac6e-eed11e8e5894)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/698e17c5-4832-4261-bf5c-00756a60d88e)
 ![image](https://github.com/user-attachments/assets/0fe72c93-1f0d-4a3b-b261-4fec2151ef7a)
 ![image](https://github.com/user-attachments/assets/44df5991-4066-4f26-b3d9-92c366271017)
